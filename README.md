@@ -1,8 +1,8 @@
 # Chilean Facebook News
 
-Download: https://drive.google.com/file/d/1n3pJHUoxKerqEdIRFPuY1YQUJCznmtwp/view?usp=sharing
+Download: https://drive.google.com/drive/folders/1cC_Zy1LbnLnIs6QcPZGQAW4NL5ull9kp?usp=sharing
 
-Rows: 180951
+Rows: 361,902
 Columns: 46
 
 Columns:
